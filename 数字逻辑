@@ -1,1 +1,121 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T02:08:20.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="19.0.0" etag="R2arIvvyHN8MXvHtIiIt" type="github"><diagram id="3b9rw0j3SmQ_wuK9dD84">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-04T02:17:58.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="HDmg2W1xB4ozecoAqe3a" version="19.0.0" type="github">
+  <diagram id="3b9rw0j3SmQ_wuK9dD84" name="Page-1">
+    <mxGraphModel dx="1038" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BQBhAlor40GMIvTgF3gy-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BQBhAlor40GMIvTgF3gy-1" target="BQBhAlor40GMIvTgF3gy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BQBhAlor40GMIvTgF3gy-1" target="BQBhAlor40GMIvTgF3gy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BQBhAlor40GMIvTgF3gy-1" target="BQBhAlor40GMIvTgF3gy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BQBhAlor40GMIvTgF3gy-1" target="BQBhAlor40GMIvTgF3gy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BQBhAlor40GMIvTgF3gy-1" target="BQBhAlor40GMIvTgF3gy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-1" value="实现功能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BQBhAlor40GMIvTgF3gy-2" target="BQBhAlor40GMIvTgF3gy-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BQBhAlor40GMIvTgF3gy-2" target="BQBhAlor40GMIvTgF3gy-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BQBhAlor40GMIvTgF3gy-2" target="BQBhAlor40GMIvTgF3gy-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-2" value="闹钟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BQBhAlor40GMIvTgF3gy-3" target="BQBhAlor40GMIvTgF3gy-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BQBhAlor40GMIvTgF3gy-3" target="BQBhAlor40GMIvTgF3gy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BQBhAlor40GMIvTgF3gy-3" target="BQBhAlor40GMIvTgF3gy-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-3" value="调整时钟时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BQBhAlor40GMIvTgF3gy-4" target="BQBhAlor40GMIvTgF3gy-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BQBhAlor40GMIvTgF3gy-4" target="BQBhAlor40GMIvTgF3gy-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BQBhAlor40GMIvTgF3gy-4" target="BQBhAlor40GMIvTgF3gy-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-4" value="设置闹钟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BQBhAlor40GMIvTgF3gy-5" target="BQBhAlor40GMIvTgF3gy-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BQBhAlor40GMIvTgF3gy-5" target="BQBhAlor40GMIvTgF3gy-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-5" value="整点报时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BQBhAlor40GMIvTgF3gy-6" target="BQBhAlor40GMIvTgF3gy-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BQBhAlor40GMIvTgF3gy-6" target="BQBhAlor40GMIvTgF3gy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-6" value="24小时制时钟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-7" value="时间递加和进位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-8" value="时间图形显示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-9" value="时间累加和进位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-10" value="存储、修改当前时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="65" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-11" value="实时显示修改结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-13" value="到达设置的时间报时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="140" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-14" value="停止报时开关" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="175" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-15" value="发出特定频率的声音" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-16" value="时间累加和进位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-17" value="&amp;nbsp; 小时以1为单位，&lt;br&gt;分钟以十为单位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="285" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-18" value="实时显示修改结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-19" value="检测整点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQBhAlor40GMIvTgF3gy-20" value="扬声器报时2秒" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
